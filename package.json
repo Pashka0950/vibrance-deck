@@ -1,0 +1,40 @@
+{
+  "name": "vibrance-deck",
+  "version": "1.0.0",
+  "description": "Digital vibrance (screen saturation) for Steam Deck via gamescope looks",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@decky/rollup": "^1.0.1",
+    "@decky/ui": "^4.7.2",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "@types/webpack": "^5.28.5",
+    "rollup": "^4.22.5",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@decky/api": "^1.1.2"
+  },
+  "author": "Pashka0950",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pashka0950/vibrance-deck.git"
+  },
+  "homepage": "https://github.com/Pashka0950/vibrance-deck#readme",
+  "bugs": {
+    "url": "https://github.com/Pashka0950/vibrance-deck/issues"
+  },
+  "keywords": [
+    "decky",
+    "plugin",
+    "steam-deck",
+    "deck",
+    "saturation",
+    "vibrance",
+    "gamescope"
+  ]
+}

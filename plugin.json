@@ -1,0 +1,16 @@
+{
+  "name": "Vibrance",
+  "author": "Pashka0950",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "saturation",
+      "vibrance",
+      "color",
+      "display"
+    ],
+    "description": "Digital vibrance like NVIDIA: boosts screen saturation for games and the Steam UI using a gamescope look (3D LUT). 50% = unchanged, 100% = twice as saturated.",
+    "image": "https://raw.githubusercontent.com/Pashka0950/vibrance-deck/main/assets/screenshot.png"
+  }
+}
