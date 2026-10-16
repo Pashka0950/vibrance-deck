@@ -7,6 +7,20 @@ Makes colours richer in games and in the Steam UI with one slider.
 
 [Русская версия ниже](#vibrance-ru)
 
+## Install
+
+Vibrance is not in the Decky Plugin Store, install it by URL (takes a minute):
+
+1. Install [Decky Loader](https://decky.xyz) if you don't have it yet.
+2. Open the Quick Access menu (**...** button) → **Decky** tab → ⚙️ **Settings** → enable **Developer mode**.
+3. In Decky settings open **Developer** → **Install Plugin from URL** and paste:
+   ```
+   https://github.com/Pashka0950/vibrance-deck/releases/latest/download/Vibrance.zip
+   ```
+4. Confirm the installation. Vibrance appears in the Decky tab.
+
+To update, repeat step 3 - the link always points to the latest release.
+
 ## Features
 
 - Slider 0-100% on the NVIDIA scale: **50% = unchanged**, 0% = greyscale, 100% = twice as saturated
@@ -51,6 +65,20 @@ MIT
 
 **Цифровая яркость для Steam Deck**, как *Digital Vibrance* в панели NVIDIA.
 Делает цвета сочнее в играх и в интерфейсе Steam одним ползунком.
+
+## Установка
+
+Vibrance нет в магазине Decky, ставится по ссылке (займёт минуту):
+
+1. Поставь [Decky Loader](https://decky.xyz), если его ещё нет.
+2. Открой меню быстрого доступа (кнопка **...**) → вкладка **Decky** → ⚙️ **Настройки** → включи **Developer mode** (режим разработчика).
+3. В настройках Decky открой **Developer** → **Install Plugin from URL** и вставь ссылку:
+   ```
+   https://github.com/Pashka0950/vibrance-deck/releases/latest/download/Vibrance.zip
+   ```
+4. Подтверди установку. Vibrance появится во вкладке Decky.
+
+Чтобы обновить, повтори шаг 3: ссылка всегда ведёт на последнюю версию.
 
 ## Возможности
 
